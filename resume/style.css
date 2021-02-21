@@ -1,4 +1,5 @@
 body {
+  <!-- styles for my resume -->
   font-family: 'Open Sans', arial, sans-serif;
   font-size: 1em;
   color: #444;
@@ -6,6 +7,7 @@ body {
 }
 
 h1 {
+  <!-- header -->
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
@@ -13,12 +15,14 @@ h1 {
 }
 
 strong {
+  <!-- title edits -->
   color:#33485e;
   text-transform: uppercase;
   font-size: 1.5em;
 }
 
 h2 {
+  <!-- section titles -->
   font-size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
@@ -26,18 +30,21 @@ h2 {
 }
 
 h3 {
+  <!-- job titles -->
   font-size: 1.5em;
   font-weight: 600;
 
 }
 
 h4 {
+  <!-- job organization -->
   font-size: 1.5em;
-  font-weight: 600;
+  font-weight: 400;
 
 }
 
 h5 {
+  <!-- job dates -->
   font-weight: 400;
   font-size: 1em;
   text-transform: italicize;
