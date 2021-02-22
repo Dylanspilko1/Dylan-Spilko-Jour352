@@ -6,13 +6,18 @@ body {
   font-weight: 400;
 }
 
-h1 {
+#name {
   <!-- header -->
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
   text-align: center;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
 }
+
 
 strong {
   <!-- title edits -->
@@ -21,12 +26,16 @@ strong {
   font-size: 1.5em;
 }
 
-h2 {
+.sectionheader {
   <!-- section titles -->
   font-size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
   color:#fff;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px;
 }
 
 h3 {
@@ -47,5 +56,5 @@ h5 {
   <!-- job dates -->
   font-weight: 400;
   font-size: 1em;
-  text-transform: italicize;
+  text-transform: italic;
 }
