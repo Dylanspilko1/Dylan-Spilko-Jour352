@@ -45,7 +45,7 @@ strong {
   min-width: 300px;
 }
 
-h3 {
+.jobtitle {
   <!-- job titles -->
   font-size: 1.5em;
   font-weight: 600;
