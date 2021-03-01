@@ -13,23 +13,25 @@ body {
 }
 
 #name {
-  <!-- header -->
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
-  text-align: center;
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
-  margin: 0 auto;
+  text-align: center;
+  margin: auto 0;
 }
 
 
-strong {
+#title {
   <!-- title edits -->
   color:#33485e;
   text-transform: uppercase;
   font-size: 1.5em;
+  text-align: center;
+  font-weight: 600
+  margin-top: 20px;
 }
 
 .sectionheader {
@@ -69,6 +71,7 @@ strong {
 .description {
   margin-top: 10px;
   margin-bottom: 10px;
+
 }
 
 .menu {
@@ -80,5 +83,17 @@ strong {
 }
 
 .menu li {
+  display: inline;
+}
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin-bottom: 30px;
+  margin: auto 0;
+  text-align: center;
+}
+
+.top {
   display: inline;
 }
