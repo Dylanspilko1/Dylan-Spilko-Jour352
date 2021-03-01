@@ -30,7 +30,7 @@ body {
   text-transform: uppercase;
   font-size: 1.5em;
   text-align: center;
-  font-weight: 600
+  font-weight: 600;
   margin-top: 20px;
   margin: auto;
 }
@@ -51,7 +51,6 @@ body {
   font-size: 1.5em;
   font-weight: 600;
   font-weight: bold;
-
 }
 
 .organization {
@@ -83,6 +82,14 @@ body {
 
 .menu li {
   display: inline;
+}
+
+#degrees {
+  margin-top: 5px;
+}
+
+#do {
+  margin-top: 5px;
 }
 
 .top {
