@@ -19,8 +19,8 @@ body {
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
+  margin: auto;
   text-align: center;
-  margin: auto 0;
 }
 
 
@@ -32,6 +32,7 @@ body {
   text-align: center;
   font-weight: 600
   margin-top: 20px;
+  margin: auto;
 }
 
 .sectionheader {
@@ -47,24 +48,22 @@ body {
 }
 
 .jobtitle {
-  <!-- job titles -->
   font-size: 1.5em;
   font-weight: 600;
+  font-weight: bold;
 
 }
 
 .organization {
-  <!-- job organization -->
   font-size: 1.25em;
   font-weight: 400;
 
 }
 
 .date {
-  <!-- job dates -->
   font-weight: 400;
   font-size: 1em;
-  text-transform: italic;
+  font-style: italic;
   margin-top: 2px;
 }
 
@@ -89,11 +88,6 @@ body {
 .top {
   width: 60%;
   min-width: 300px;
-  margin-bottom: 30px;
-  margin: auto 0;
+  margin: auto;
   text-align: center;
-}
-
-.top {
-  display: inline;
 }
