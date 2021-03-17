@@ -16,3 +16,32 @@ p {
   font-family: georgia, serif;
   line-height: 180%;
 }
+
+.chapter {
+  font-size: 2em;
+  font-weight: 700;
+  text-align: left;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#mypic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  font-family: georgia, serif;
+  line-height: 180%;
+  text-align: center;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
