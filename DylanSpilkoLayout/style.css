@@ -9,6 +9,24 @@
   font-weight: bold;
 }
 
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+text-align: center;
+}
+
+#headline {
+  font-family: Helvetica, sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  text-align: center;
+}
+
+#menu {
+  text-align: center;
+}
+
 blockquote {
 font: 16px normal helvetica, sans-serif;
 font-style: italic;
@@ -22,7 +40,8 @@ text-align: center
 }
 
 p {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Georgia", serif;
+    font-size: 13px;
 }
 
 #earthpic {
