@@ -3,6 +3,54 @@
   width: 900px;
 }
 
+#masthead {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
 blockquote {
-  
+font: 16px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: red;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+text-align: center
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#earthpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#womanpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Spacecraftpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  float: center;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0 auto;
+  padding: 0.5em;
 }
