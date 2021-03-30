@@ -1,1 +1,9 @@
-THIS IS MY STYLE SHEET
+#related {
+  text-align: center;
+}
+
+
+#graphic {
+  <!-- This is not for any picture this is the graphic-->
+  margin: 0 auto;
+}
