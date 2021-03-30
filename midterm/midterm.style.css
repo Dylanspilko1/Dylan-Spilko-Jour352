@@ -7,12 +7,12 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  <!-- This is not for any picture this is the graphic-->
+  <!-- This is not for a picture because this is the graphic-->
 }
 
 p {
-    font-family: "Georgia", serif;
-    font-size: 13px;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 12px;
 }
 
 #headline {
@@ -73,13 +73,25 @@ text-align: center;
 }
 
 #sectionheader {
-  font-family: "Georgia", serif;
+  font-family: Helvetica, sans-serif;
   font-size: 25px;
-  font-weight: bold;
+  font-style: italic;
   text-align: center;
 }
 
 #content {
   margin: 0 auto;
   width: 900px;
+}
+
+blockquote {
+font: 24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: red;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+text-align: center
 }
