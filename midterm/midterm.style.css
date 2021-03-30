@@ -4,6 +4,52 @@
 
 
 #graphic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   <!-- This is not for any picture this is the graphic-->
+}
+
+p {
+    font-family: "Georgia", serif;
+    font-size: 13px;
+}
+
+#headline {
+  font-family: Helvetica, sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  text-align: center;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+text-align: center;
+}
+
+#masthead {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+#openingpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  float: center;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
   margin: 0 auto;
+  padding: 0.5em;
 }
