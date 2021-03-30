@@ -48,6 +48,18 @@ text-align: center;
   margin-right: auto;
 }
 
+#strongpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#finalpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .caption {
   float: center;
   width: 30%;
