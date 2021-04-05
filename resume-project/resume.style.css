@@ -48,6 +48,11 @@
   font-size: 3.5em;
 }
 
+.dropdown-item {
+  display: block;
+  visibility: visible;
+}
+
 .jobtitle {
   font-size: 2em;
   font-weight: 600;
