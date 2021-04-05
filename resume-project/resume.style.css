@@ -37,12 +37,16 @@
   <!-- section titles -->
   font-size: 1.5em;
   text-transform: uppercase;
-  background-color: #33485e;
-  color:#fff;
+  color:#FF0000;
   margin-bottom: 10px;
   margin-top: 20px;
   width: 70%;
   min-width: 300px;
+}
+
+.headline {
+  font-size: 2.5em;
+  text-align: center;
 }
 
 .jobtitle {
@@ -67,7 +71,6 @@
 .description {
   margin-top: 10px;
   margin-bottom: 10px;
-
 }
 
 .menu {
@@ -95,6 +98,7 @@
   min-width: 300px;
   margin: auto;
   text-align: center;
+  font-weight: bold;
 }
 
 .footer {
@@ -104,4 +108,10 @@
   background-color: black;
   color: white;
   text-align: center;
+}
+
+#mattpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
