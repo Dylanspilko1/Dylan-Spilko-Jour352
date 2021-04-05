@@ -129,6 +129,11 @@
   margin-right: auto;
 }
 
+#caption {
+  text-align: center;
+  font-size: 1.15em;
+}
+
 p {
   text-align: center;
   font-size: 1.5em;
