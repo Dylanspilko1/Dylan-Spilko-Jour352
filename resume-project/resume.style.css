@@ -49,7 +49,7 @@
 }
 
 .jobtitle {
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: 600;
   font-weight: bold;
   text-align: center;
@@ -57,7 +57,7 @@
 }
 
 .organization {
-  font-size: 1.25em;
+  font-size: 1.5em;
   font-weight: 400;
   text-align: center;
 }
@@ -127,4 +127,10 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: "Helvetica", Arial, sans-serif;
 }
