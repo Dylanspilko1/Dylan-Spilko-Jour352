@@ -1,6 +1,7 @@
 p {
   font-family: georgia, serif;
   line-height: 180%;
+  font-size: 22px;
 }
 
 #headline {
@@ -11,30 +12,110 @@ p {
 }
 
 #byline {
-  font-size: 1em;
+  font-size: 1.5em;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+  font-weight: bold;
+}
+
+blockquote {
+font: 30px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: orange;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+text-align: center
+}
+
+#sectionheader {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+.caption {
+  float: center;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: 1em;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+#related {
+  text-align: center;
+  font-size: 18px;
+}
+
+#bowenpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 1000px;
+}
+
+#brotherstwopic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 1000px;
+}
+
+#mentalhealthpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 1000px;
+}
+
+#brotherpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 1000px;
 }
 
 #phillycrime {
   display: block;
-  margin-left: -70px;
-  margin-right: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
 }
 
 #hometowns {
   display: block;
-  margin-left: -70px;
-  margin-right: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
 }
 
 #nbademographics {
   display: block;
-  margin-left: -150px;
-  margin-right: 150px;
+  margin-left: 50px;
+  margin-right: -50px;
+  width: 1000px;
 }
 
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
 
 #content {
   margin: 0 auto;
