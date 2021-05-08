@@ -11,6 +11,12 @@ p {
   font-family: georgia, sans-serif;
 }
 
+#masthead {
+  margin: 0 auto;
+  max-width: 100%;
+
+}
+
 #byline {
   font-size: 1.2em;
   font-family: georgia, sans-serif;
